@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#topo-site {
+    height: 20vh;
+    background-color: #e5e5e5;
+    position: relative;
+}
+
+.titulo-site {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
